@@ -8,7 +8,7 @@
  3) Utilizar o Widget ListView (de forma estática) 
 
 ## Aluno:
--> Vagner Rodrigues Calado Junior
+-> Vagner Rodrigues Calado Junior <br\>
 -> RA: 22014296-2
 
 ### Projeto
