@@ -11,5 +11,8 @@
 -> Vagner Rodrigues Calado Junior <br>
 -> RA: 22014296-2
 
-### Projeto
+## Projeto
 - Nesse projeto eu implementei algumas coisas a mais que o professor pediu, em relação ao design da pagina mesmo, só para praticar.
+
+## Exemplo de como ficou a tela:
+![image](https://github.com/user-attachments/assets/3c6a4717-bae2-4a56-b385-480e6866df5f)
