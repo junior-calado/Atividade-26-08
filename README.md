@@ -1,16 +1,15 @@
-# atividade2608
+# Atividade da Aula 26/08
 
-A new Flutter project.
+ Nesta atividade iremos utilizar apenas o StatelessWidget na construção do
+ primeiro layout.
+ A atividade deve conter as 3 características a seguir:
+ 1) Criar uma tela com o MaterialApp
+ 2) Utilizar o Widget Card
+ 3) Utilizar o Widget ListView (de forma estática) 
 
-## Getting Started
+## Aluno:
+-> Vagner Rodrigues Calado Junior
+-> RA: 22014296-2
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Projeto
+- Nesse projeto eu implementei algumas coisas a mais que o professor pediu, em relação ao design da pagina mesmo, só para praticar.
